@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "name": "fantastic-umbrella",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/fantastic-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/fantastic-umbrella/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/fantastic-umbrella#readme"
+}
